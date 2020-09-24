@@ -3,23 +3,23 @@
     "path": "~/GitHub/greyincidence/R/abGI.R",
     "project_path": "R/abGI.R",
     "type": "r_source",
-    "hash": "1618932133",
+    "hash": "1192993326",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1598330383019.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "6,37",
+        "cursorPosition": "4,1",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1598330490,
+    "lastKnownWriteTime": 1600914649,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1598330502177,
+    "last_content_update": 1600914649555,
     "read_only": false,
     "read_only_alternatives": []
 }
