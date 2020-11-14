@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605315570527.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1257830123",
+    "id" : "E29501D8",
+    "lastKnownWriteTime" : 1605253213,
+    "last_content_update" : 1605253213,
+    "path" : "~/GitHub/greyincidence/R/basciGI.R",
+    "project_path" : "R/basciGI.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
